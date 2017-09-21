@@ -12,7 +12,7 @@
           "Distance": 19.18,
           "Calories": "930",
           "Time": "2:08:49",
-          "Avg HR": 130,
+          "AvgHR": 130,
           "Max HR": 142,
           "Aerobic TE": 2.8,
           "Avg Cadence": "--",
@@ -46,7 +46,7 @@
           "Distance": 7.41,
           "Calories": "442",
           "Time": "48:39",
-          "Avg HR": 133,
+          "AvgHR": 133,
           "Max HR": 158,
           "Aerobic TE": 2.2,
           "Avg Cadence": "--",
@@ -80,7 +80,7 @@
           "Distance": 9.23,
           "Calories": "585",
           "Time": "50:28",
-          "Avg HR": 151,
+          "AvgHR": 151,
           "Max HR": 166,
           "Aerobic TE": 3.7,
           "Avg Cadence": "--",
@@ -114,7 +114,7 @@
           "Distance": 11.65,
           "Calories": "643",
           "Time": "1:20:56",
-          "Avg HR": 130,
+          "AvgHR": 130,
           "Max HR": 170,
           "Aerobic TE": 2.5,
           "Avg Cadence": "--",
@@ -148,7 +148,7 @@
           "Distance": 19.51,
           "Calories": "1,012",
           "Time": "2:17:24",
-          "Avg HR": 130,
+          "AvgHR": 130,
           "Max HR": 145,
           "Aerobic TE": 3,
           "Avg Cadence": "--",
@@ -182,7 +182,7 @@
           "Distance": 10.04,
           "Calories": "618",
           "Time": "1:09:11",
-          "Avg HR": 134,
+          "AvgHR": 134,
           "Max HR": 147,
           "Aerobic TE": 2.5,
           "Avg Cadence": "--",
@@ -216,7 +216,7 @@
           "Distance": 10.54,
           "Calories": "636",
           "Time": "59:05",
-          "Avg HR": 148,
+          "AvgHR": 148,
           "Max HR": 183,
           "Aerobic TE": 4.1,
           "Avg Cadence": "--",
@@ -250,7 +250,7 @@
           "Distance": 10.96,
           "Calories": "641",
           "Time": "1:21:11",
-          "Avg HR": 129,
+          "AvgHR": 129,
           "Max HR": 151,
           "Aerobic TE": 2.5,
           "Avg Cadence": "--",
@@ -284,7 +284,7 @@
           "Distance": 19.05,
           "Calories": "1,054",
           "Time": "2:16:54",
-          "Avg HR": 133,
+          "AvgHR": 133,
           "Max HR": 159,
           "Aerobic TE": 3,
           "Avg Cadence": "--",
@@ -318,7 +318,7 @@
           "Distance": 9.47,
           "Calories": "584",
           "Time": "1:02:02",
-          "Avg HR": 136,
+          "AvgHR": 136,
           "Max HR": 149,
           "Aerobic TE": 2.5,
           "Avg Cadence": "--",
@@ -352,7 +352,7 @@
           "Distance": 8.36,
           "Calories": "562",
           "Time": "45:26",
-          "Avg HR": 156,
+          "AvgHR": 156,
           "Max HR": 176,
           "Aerobic TE": 4.3,
           "Avg Cadence": "--",
@@ -386,7 +386,7 @@
           "Distance": 8.59,
           "Calories": "520",
           "Time": "1:01:02",
-          "Avg HR": 129,
+          "AvgHR": 129,
           "Max HR": 145,
           "Aerobic TE": 2.3,
           "Avg Cadence": "--",
@@ -420,7 +420,7 @@
           "Distance": 3.43,
           "Calories": "176",
           "Time": "29:48",
-          "Avg HR": 106,
+          "AvgHR": 106,
           "Max HR": 120,
           "Aerobic TE": 1.3,
           "Avg Cadence": "--",
@@ -454,7 +454,7 @@
           "Distance": 10.5,
           "Calories": "668",
           "Time": "50:14",
-          "Avg HR": 170,
+          "AvgHR": 170,
           "Max HR": 189,
           "Aerobic TE": 5,
           "Avg Cadence": "--",
@@ -488,7 +488,7 @@
           "Distance": 7.53,
           "Calories": "421",
           "Time": "49:24",
-          "Avg HR": 131,
+          "AvgHR": 131,
           "Max HR": 145,
           "Aerobic TE": 2.3,
           "Avg Cadence": "--",
@@ -522,7 +522,7 @@
           "Distance": 6.62,
           "Calories": "384",
           "Time": "48:16",
-          "Avg HR": 127,
+          "AvgHR": 127,
           "Max HR": 141,
           "Aerobic TE": 2.2,
           "Avg Cadence": "--",
@@ -556,7 +556,7 @@
           "Distance": 18.05,
           "Calories": "950",
           "Time": "2:01:21",
-          "Avg HR": 134,
+          "AvgHR": 134,
           "Max HR": 146,
           "Aerobic TE": 3.1,
           "Avg Cadence": "--",
@@ -590,7 +590,7 @@
           "Distance": 9.16,
           "Calories": "590",
           "Time": "1:05:06",
-          "Avg HR": 134,
+          "AvgHR": 134,
           "Max HR": 172,
           "Aerobic TE": 2.6,
           "Avg Cadence": "--",
@@ -624,7 +624,7 @@
           "Distance": 7.08,
           "Calories": "413",
           "Time": "36:05",
-          "Avg HR": 149,
+          "AvgHR": 149,
           "Max HR": 204,
           "Aerobic TE": 3.8,
           "Avg Cadence": "--",
@@ -658,7 +658,7 @@
           "Distance": 7,
           "Calories": "412",
           "Time": "49:07",
-          "Avg HR": 129,
+          "AvgHR": 129,
           "Max HR": 138,
           "Aerobic TE": 2.2,
           "Avg Cadence": "--",
@@ -687,20 +687,80 @@
        ]
 
 
+
+
     
     window.onload = function(){
-        console.log(jsondata[0].Distance);
+        console.log("test");
 
-        var i = 0; 
-        svgarray.forEach(function(entry){       
-            var rec = document.getElementById(entry);
-            rec.setAttribute("height", jsondata[i].Distance*10);
-            rec.setAttribute("y",(424-jsondata[i].Distance*10));
+        // var i = 0; 
+        // svgarray.forEach(function(entry){       
+        //     var rec = document.getElementById(entry);
+            
+        //     rec.setAttribute("height", jsondata[i].Distance*10);
+        //     rec.setAttribute("y",(424-jsondata[i].Distance*10));
+            
+        //     i++;
+        // });
+
+
+        var contDistance = document.getElementById('distancecontainer');
+        var contCalorie = document.getElementById('caloriecontainer');
+        
+        var svgDistance = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+        svgDistance.setAttribute("width", "800");
+        svgDistance.setAttribute("height", "1000");
+        svgDistance.setAttribute("version", "1.1");
+        svgDistance.setAttribute("id", "mysvg");
+
+        var svgCalorie = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+        svgCalorie.setAttribute("width", "800");
+        svgCalorie.setAttribute("height", "1000");
+        svgCalorie.setAttribute("version", "1.1");
+        svgCalorie.setAttribute("id", "mysvg");
+
+    
+        
+        var i = 0;
+        jsondata.forEach(function(entry){
+            var rect = document.createElementNS("http://www.w3.org/2000/svg", "rect");
+            rect.setAttribute("fill", "#2E2E83");
+            rect.setAttribute("stroke", "black");
+            rect.setAttribute("stroke-width", "1");
+            rect.setAttribute("width", "25");
+            rect.setAttribute("x", i*40);
+            rect.setAttribute("y", 424-entry.Distance*10);
+            rect.setAttribute("height", entry.Distance*10);
+            svgDistance.appendChild(rect);
+            contDistance.appendChild(svgDistance);
             
             i++;
+
         });
-    
+
+        i = 0;
+        jsondata.forEach(function(entry){
+            var rect = document.createElementNS("http://www.w3.org/2000/svg", "rect");
+            rect.setAttribute("fill", "#2B2F21");
+            rect.setAttribute("stroke", "black");
+            rect.setAttribute("stroke-width", "1");
+            rect.setAttribute("width", "25");
+            rect.setAttribute("x", i*40);
+            rect.setAttribute("y", 251-entry.Calories*0.3);
+            rect.setAttribute("height",entry.Calories*0.3);
+            svgCalorie.appendChild(rect);
+            contCalorie.appendChild(svgCalorie);
+
+            i++;
+
+        });
+
+
+
+
     
     }
+
+
 
 
